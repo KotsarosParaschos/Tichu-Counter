@@ -1,0 +1,32 @@
+body{background-color:rgb(3, 97, 42);}
+h1{font-size:50px; color:white; font-family: Arial, Helvetica, sans-serif; color: red;}
+.btn.active{
+    color: red;
+  }
+
+
+.teams{font-size:30px;font-family: Arial, Helvetica, sans-serif;color:white;}
+
+#addscoreA{ max-width:100px; border-radius:5px; margin: auto; top:50px; position:relative;}
+#addscoreB{ max-width:100px; border-radius:5px; margin: auto; top:50px; position:relative;}
+#submitscore{background-color:rgb(27, 25, 25); color: white; max-width:100px; position:relative; margin:auto;}
+#resetscore{background-color:rgb(27, 25, 25); color: white; max-width:100px; position:relative; margin:auto;}
+.details1{color:white;}
+.details2{color:white;}
+.tichu{max-width:90px;}
+.grand{max-width:90px;}
+.scorebtn{position:relative; bottom:40px;}
+
+.container{
+    max-width:500px;
+    max-height:500px;
+    text-align:center;
+    margin: auto;
+    margin-top:30px;
+}
+.fscores{
+    font-size:30px;
+    color:white;
+}
+
+
